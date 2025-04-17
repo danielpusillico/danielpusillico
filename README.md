@@ -59,7 +59,11 @@ About me
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
-
+<picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlqdWxvazR2MTRzcnJsYWcxZG1kd21pZDQ1NXp2cHUxM28xd3I1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGchZBY0Oh4qdGXm/giphy.gif" width = 50px>  </picture> Data Base 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+ 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
